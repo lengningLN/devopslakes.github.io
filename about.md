@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### 提醒
+标题带【个人实践】的文档，都是个人独创文档，引用时请带上出处，谢谢！
 
-A place to include any other types of information that you'd like to include about yourself.
+### 反馈
+若【个人实践】文档中有任何问题，请大家提交到 [issue](https://github.com/DevOpsLakes/devopslakes.github.io/issues)。也欢迎大家提 pull requests 。
 
-### Contact me
+### Email
 
-[email@domain.com](mailto:email@domain.com)
+[git2019@163.com](mailto:git2019@163.com)
